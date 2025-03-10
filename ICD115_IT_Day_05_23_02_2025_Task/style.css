@@ -1,0 +1,11 @@
+body{
+    margin: 0px;
+}
+
+#Header{
+    background-color: rgba(133, 132, 132, 0.562);    
+    text-align: center;
+    padding: 1px 0px;
+    margin-top: 20px;
+}
+
