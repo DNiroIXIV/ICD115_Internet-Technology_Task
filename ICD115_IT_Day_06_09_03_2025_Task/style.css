@@ -1,0 +1,25 @@
+*{
+    /* box-sizing: border-box; */
+}
+
+body{
+    margin: 0;
+}
+
+#box01{
+   
+}
+
+#column01{
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+}
+
+#column02{
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+}
